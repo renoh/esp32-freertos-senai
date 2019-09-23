@@ -11,9 +11,11 @@
                 "app"
             ],
             "includePath": [
-                "${workspaceFolder}/**",
                 "~/esp/esp-idf/components/**",
-                "/xtensa-esp32-elf/xtensa-esp32-elf/include"
+                "~/esp/esp-idf-template-master/build/config/",
+                "/xtensa-esp32-elf/xtensa-esp32-elf/include",
+                "/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include",
+                "/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed"
             ]
         }
     ],
