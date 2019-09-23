@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := project
+PROJECT_NAME := ex01
 
 include $(IDF_PATH)/make/project.mk
 
